@@ -11,7 +11,8 @@
     "@truenetworkio/sdk": "^0.0.10",
     "core-js": "^3.8.3",
     "ethers": "^6.13.4",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "web3": "^4.16.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
